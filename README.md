@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there, I'm Thomas!
 
-<!--
-**Presicci/Presicci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on: 2D Unity game
 
-Here are some ideas to get you started:
+I'm a Java/C# developer with a passion for application/game development and design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Static Badge](https://img.shields.io/badge/Java-Experienced-Green)
+![Static Badge](https://img.shields.io/badge/C%23-Experienced-Green)
+![Static Badge](https://img.shields.io/badge/Git-Experienced-Green)
+![Static Badge](https://img.shields.io/badge/Unity-Experienced-Green)
+<br>
+![Static Badge](https://img.shields.io/badge/JavaScript-Familiar-yellow)
+![Static Badge](https://img.shields.io/badge/SQL-Familiar-yellow)
+![Static Badge](https://img.shields.io/badge/PHP-Familiar-yellow)
+![Static Badge](https://img.shields.io/badge/Python-Familiar-yellow)
+<br>![Static Badge](https://img.shields.io/badge/C-Rusty-red)
+![Static Badge](https://img.shields.io/badge/C++-Rusty-red)
+![Static Badge](https://img.shields.io/badge/Kotlin-Rusty-red)
+![Static Badge](https://img.shields.io/badge/Unreal%20Engine-Rusty-red)
