@@ -2,7 +2,7 @@
 
 I'm a Java/C# developer with a passion for application/game development and design.
 
-Currently working on a 3D Unity game and a Java emulation project.
+Currently working on a 3D Unity multiplayer game and a Java emulation project.
 
 ![Static Badge](https://img.shields.io/badge/Java-Experienced-Green)
 ![Static Badge](https://img.shields.io/badge/C%23-Experienced-Green)
